@@ -1,0 +1,8 @@
+program{
+	int a = -1, b = -4;
+	string s, f, g = "nflrenkrlm", q = "";
+	bool c, d = true, e = false;
+	a = (125 * 8 / (99 + 1) -7) * 5 - 10;
+	b = -a;
+	write(b);
+}

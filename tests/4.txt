@@ -1,0 +1,7 @@
+program{
+	int a = 12;
+	int d = 5;
+	for(a = 1; a < 5; a = a + 1)
+		d = d + 1;
+	write(a, d);
+}

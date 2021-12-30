@@ -1,0 +1,12 @@
+program{
+	int a = -1, b = 4;
+	string d, c, e, f = "11111";
+	read(d);
+	read(e);
+	c = "00000";
+	if(d > e)
+		write("The largest string is ", d);
+	else
+		write("The largest string is ", e);
+	write("The sum of string is ", d + e, c, f);
+}

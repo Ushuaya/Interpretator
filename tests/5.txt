@@ -1,0 +1,13 @@
+program{
+	int a = 10;
+	int b = 7;
+	int i = 0;
+	for(i = 0; i < a; i = i + 1)
+	{
+	write("dads");
+	-b;
+	write(b);
+	if(i>5)
+		break;
+	} 
+}
